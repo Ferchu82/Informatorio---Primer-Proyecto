@@ -1,7 +1,6 @@
 # Kiosco Aurora
 
-Kiosco Aurora es un sitio web para un kiosco familiar ubicado en la Ciudad de Resistencia. El sitio ofrece información sobre los productos disponibles, un formulario de contacto y una página de error 404 para manejar las solicitudes no encontradas.
-
+Kiosco Aurora es un sitio web para un kiosco familiar ubicado en la Ciudad de Resistencia. El sitio ofrece información sobre los productos disponibles y un formulario de contacto.
 ## Contenido del Proyecto
 
 - **index.html**: Página principal del kiosco.
