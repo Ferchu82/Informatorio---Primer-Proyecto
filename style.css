@@ -79,14 +79,14 @@ footer {
   background-color: #333;
   color: white;
   padding: 10px 20px;
-  margin-top: auto; /* Asegura que el footer esté al final */
-  width: 100%; /* Asegura que el footer ocupe todo el ancho */
+  margin-top: auto;
+  width: 100%;
 }
 
 .productos-container {
   display: flex;
-  flex-wrap: wrap; /* Permite que los productos se ajusten en varias filas */
-  justify-content: center; /* Centra los productos horizontalmente */
+  flex-wrap: wrap;
+  justify-content: center;
   margin-top: 20px;
 }
 
@@ -96,17 +96,17 @@ footer {
   margin: 10px;
   padding: 10px;
   text-align: center;
-  width: 200px; /* Ancho fijo para cada producto */
+  width: 200px;
 }
 
 .producto img {
-  width: 100%; /* Asegura que la imagen ocupe todo el ancho del contenedor */
-  height: auto; /* Mantiene la proporción de la imagen */
+  width: 100%;
+  height: auto;
 }
 
 .precio {
   font-weight: bold;
-  color: #4caf50; /* Color verde para el precio */
+  color: #4caf50;
 }
 
 footer .logo {
